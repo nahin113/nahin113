@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nahin Ahmed</h1>
 <h3 align="center">Currently in my final year of CSE in Bangladesh University of Business and Technology.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **nahinahmed113@gmail.com**
 
