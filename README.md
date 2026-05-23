@@ -17,7 +17,7 @@ CSE student at BUBT and a self driven Full Stack Developer focused on building r
 
 ---
 
-## 🔭 What I'm Up To
+## What I'm Up To
 
 • Shipped **Petora** - a full-stack Pet Adoption Platform with auth, listings & dashboard
 • Built **Roamly** - a Travel Package Booking Platform with Next.js & MongoDB
@@ -27,7 +27,7 @@ CSE student at BUBT and a self driven Full Stack Developer focused on building r
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 #### Frontend
 <p>
@@ -51,7 +51,7 @@ CSE student at BUBT and a self driven Full Stack Developer focused on building r
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack | Live |
 |---|---|---|---|
@@ -61,7 +61,7 @@ CSE student at BUBT and a self driven Full Stack Developer focused on building r
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -78,21 +78,21 @@ CSE student at BUBT and a self driven Full Stack Developer focused on building r
 
 ---
 
-## 🏅 Competitive Programming
+## Competitive Programming
 
 <div align="center">
 
 | Platform | Max Rating | Profile |
 |---|---|---|
-| 🟡 Codeforces | **1068** | [nahinahmed]([https://codeforces.com/profile/nahinahmed](https://codeforces.com/profile/nahin113)) |
-| 🟠 CodeChef | **1287** | [nahinahmed]([https://www.codechef.com/users/nahinahmed](https://www.codechef.com/users/nahinahmed113)) |
-| 🟨 LeetCode | **1434** | [nahinahmed]([https://leetcode.com/nahinahmed](https://leetcode.com/u/nahinahmed113/)) |
+| Codeforces | **1068** | [nahinahmed]([https://codeforces.com/profile/nahinahmed](https://codeforces.com/profile/nahin113)) |
+| CodeChef | **1287** | [nahinahmed]([https://www.codechef.com/users/nahinahmed](https://www.codechef.com/users/nahinahmed113)) |
+| LeetCode | **1434** | [nahinahmed]([https://leetcode.com/nahinahmed](https://leetcode.com/u/nahinahmed113/)) |
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
