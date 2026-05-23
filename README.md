@@ -65,8 +65,8 @@ CSE student at BUBT and a self driven Full Stack Developer focused on building r
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahinahmed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahinahmed&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahin113&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahin113&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
