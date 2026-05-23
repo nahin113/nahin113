@@ -87,9 +87,9 @@ CSE student at BUBT and a self driven Full Stack Developer focused on building r
 
 | Platform | Max Rating | Profile |
 |---|---|---|
-| Codeforces | **1068** | [nahinahmed]([https://codeforces.com/profile/nahinahmed](https://codeforces.com/profile/nahin113)) |
-| CodeChef | **1287** | [nahinahmed]([https://www.codechef.com/users/nahinahmed](https://www.codechef.com/users/nahinahmed113)) |
-| LeetCode | **1434** | [nahinahmed]([https://leetcode.com/nahinahmed](https://leetcode.com/u/nahinahmed113/)) |
+| Codeforces | **1068** | [nahin113]([https://codeforces.com/profile/nahinahmed](https://codeforces.com/profile/nahin113)) |
+| CodeChef | **1287** | [nahin113]([https://www.codechef.com/users/nahinahmed](https://www.codechef.com/users/nahinahmed113)) |
+| LeetCode | **1434** | [nahin113]([https://leetcode.com/nahinahmed](https://leetcode.com/u/nahinahmed113/)) |
 
 </div>
 
