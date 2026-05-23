@@ -65,16 +65,17 @@ CSE student at BUBT and a self driven Full Stack Developer focused on building r
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahin113&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahin113&theme=default" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahin113&theme=tokyonight" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahin113&theme=tokyonight" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahin113&theme=default" height="180em"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahin113&theme=default" height="180em"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nahin113&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=nahin113&theme=default&hide_border=true"/>
 
 </div>
 
