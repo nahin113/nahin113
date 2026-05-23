@@ -8,7 +8,7 @@
 
 ## About Me
 
-CSE student at BUBT and a self-driven Full-Stack Developer focused on building real-world web applications. I combine competitive programming fundamentals with modern web development to write clean, efficient, and scalable code.
+CSE student at BUBT and a self driven Full Stack Developer focused on building real world web applications. I combine competitive programming fundamentals with modern web development to write clean, efficient, and scalable code.
 
 • Studying Computer Science & Engineering at **BUBT, Dhaka**
 • ICPC Asia Dhaka Preliminary participant — **3 consecutive years**
