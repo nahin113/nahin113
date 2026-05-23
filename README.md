@@ -11,7 +11,7 @@
 CSE student at BUBT and a self driven Full Stack Developer focused on building real world web applications. I combine competitive programming fundamentals with modern web development to write clean, efficient, and scalable code.
 
 • Studying Computer Science & Engineering at **BUBT, Dhaka**
-• ICPC Asia Dhaka Preliminary participant — **3 consecutive years**
+• ICPC Asia Dhaka Preliminary participant - **3 consecutive years**
 • Ranked **54th** at BUBT Inter-University Programming Contest 2025
 • Reach me at **nahinahmed113@gmail.com**
 
@@ -19,9 +19,9 @@ CSE student at BUBT and a self driven Full Stack Developer focused on building r
 
 ## 🔭 What I'm Up To
 
-• Shipped **Petora** — a full-stack Pet Adoption Platform with auth, listings & dashboard
-• Built **Roamly** — a Travel Package Booking Platform with Next.js & MongoDB
-• Built **NexLearn** — an Online Learning Platform with course enrollment system
+• Shipped **Petora** - a full-stack Pet Adoption Platform with auth, listings & dashboard
+• Built **Roamly** - a Travel Package Booking Platform with Next.js & MongoDB
+• Built **NexLearn** - an Online Learning Platform with course enrollment system
 • Grinding DSA on Codeforces, CodeChef & LeetCode
 • Deepening expertise in **Next.js 15 App Router** and **backend API security**
 
@@ -55,7 +55,7 @@ CSE student at BUBT and a self driven Full Stack Developer focused on building r
 
 | Project | Description | Tech Stack | Live |
 |---|---|---|---|
-| **Petora** | Full-stack Pet Adoption Platform with auth, listings & adoption requests | Next.js, MongoDB, BetterAuth, JWT | [🔗 Live]([https://your-petora-link.vercel.app](https://petora-client.vercel.app/)) |
+| **Petora** | Full stack Pet Adoption Platform with auth, listings & adoption requests | Next.js, MongoDB, BetterAuth, JWT | [🔗 Live]([https://your-petora-link.vercel.app](https://petora-client.vercel.app/)) |
 | **Roamly** | Travel Package Booking Platform with complete booking system | Next.js 15, MongoDB, BetterAuth | [🔗 Live]([https://your-roamly-link.vercel.app](https://roamly-lake.vercel.app/)) |
 | **NexLearn** | Online Learning Platform with course discovery & enrollment | Next.js 15, MongoDB, Tailwind | [🔗 Live]([https://your-nexlearn-link.vercel.app](https://nexlearn-livid.vercel.app/)) |
 
