@@ -55,9 +55,9 @@ CSE student at BUBT and a self driven Full Stack Developer focused on building r
 
 | Project | Description | Tech Stack | Live |
 |---|---|---|---|
-| **Petora** | Full stack Pet Adoption Platform with auth, listings & adoption requests | Next.js, MongoDB, BetterAuth, JWT | [🔗 Live]([https://your-petora-link.vercel.app](https://petora-client.vercel.app/)) |
-| **Roamly** | Travel Package Booking Platform with complete booking system | Next.js 15, MongoDB, BetterAuth | [🔗 Live]([https://your-roamly-link.vercel.app](https://roamly-lake.vercel.app/)) |
-| **NexLearn** | Online Learning Platform with course discovery & enrollment | Next.js 15, MongoDB, Tailwind | [🔗 Live]([https://your-nexlearn-link.vercel.app](https://nexlearn-livid.vercel.app/)) |
+| **Petora** | Full stack Pet Adoption Platform with auth, listings & adoption requests | Next.js, MongoDB, BetterAuth, JWT | [🔗 Live](https://petora-client.vercel.app/) |
+| **Roamly** | Travel Package Booking Platform with complete booking system | Next.js 15, MongoDB, BetterAuth | [🔗 Live](https://roamly-lake.vercel.app/) |
+| **NexLearn** | Online Learning Platform with course discovery & enrollment | Next.js 15, MongoDB, Tailwind | [🔗 Live](https://nexlearn-livid.vercel.app/) |
 
 ---
 
