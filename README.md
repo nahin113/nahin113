@@ -1,113 +1,100 @@
 <div align="center">
-
-![Banner](./banner.png)
-
+  <img src="./banner.png" width="100%" alt="Nahin Ahmed Banner"/>
 </div>
+
+---
+
+# Hi, I am Nahin Ahmed 
+
+**Junior Full Stack Developer** focused on building responsive, production ready web applications with React.js, Next.js, JavaScript, Tailwind CSS, Node.js, Express.js and MongoDB.
 
 ---
 
 ## About Me
 
-CSE student at BUBT and a self driven Full Stack Developer focused on building real world web applications. I combine competitive programming fundamentals with modern web development to write clean, efficient, and scalable code.
-
-• Studying Computer Science & Engineering at **BUBT, Dhaka**
-• ICPC Asia Dhaka Preliminary participant - **3 consecutive years**
-• Ranked **54th** at BUBT Inter-University Programming Contest 2025
-• Reach me at **nahinahmed113@gmail.com**
+- I build complete web applications — authentication flows, REST APIs, dashboards, CRUD operations, and responsive UIs
+- I am currently deepening expertise in **Next.js 15 App Router**, **TypeScript**, **backend API security** and **AI-assisted development workflows**
+- Open to **Junior Frontend**, **Junior MERN Stack**, and **Internship** roles remote or on-site
 
 ---
 
-## What I'm Up To
+## Tech Stack
 
-• Shipped **Petora** - a full-stack Pet Adoption Platform with auth, listings & dashboard
-• Built **Roamly** - a Travel Package Booking Platform with Next.js & MongoDB
-• Built **NexLearn** - an Online Learning Platform with course enrollment system
-• Grinding DSA on Codeforces, CodeChef & LeetCode
-• Deepening expertise in **Next.js 15 App Router** and **backend API security**
+**Frontend:**
+React.js · Next.js 15 · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · DaisyUI · HeroUI · Framer Motion · Responsive Design
 
----
+**Backend & Database:**
+Node.js · Express.js · MongoDB · REST API Design · JWT Authentication · BetterAuth · Google OAuth · CRUD Operations
 
-## Skills & Technologies
+**Tools & Deployment:**
+Git · GitHub · Vercel · VS Code · npm · Figma · Netlify 
 
-#### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-#### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-#### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,figma" />
-</p>
-
-#### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python" />
-</p>
+**AI & Productivity:**
+ChatGPT · Gemini · Claude · Cursor · AI-assisted debugging · documentation support · test-case planning
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech Stack | Live |
+| Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **Petora** | Full stack Pet Adoption Platform with auth, listings & adoption requests | Next.js, MongoDB, BetterAuth, JWT | [🔗 Live](https://petora-client.vercel.app/) |
-| **NexLearn** | Online Learning Platform with course discovery & enrollment | Next.js 15, MongoDB, Tailwind | [🔗 Live](https://nexlearn-livid.vercel.app/) |
+| **Petora** | Full-stack Pet Adoption Platform — users can browse pets, submit adoption requests, and manage listings through a secure dashboard | Next.js, Node.js, MongoDB, BetterAuth, JWT, Tailwind CSS | [Live](https://petora-client.vercel.app) · [Client](https://github.com/nahin113/Petora-A-Full-Stack-Pet-Adoption-Platform) · [Server](https://github.com/nahin113/PeTora-server) |
+| **NexLearn** | Online Learning Platform — course discovery, enrollment, protected routes, instructor profiles, and profile management | Next.js 15, MongoDB, BetterAuth, DaisyUI, Swiper.js | [Live](https://nexlearn-livid.vercel.app) · [Client](https://github.com/nahin113/NexLearn) |
+
+---
+
+## Current Focus
+
+- Building job-ready **MERN projects**
+- Improving **TypeScript** usage across frontend and backend
+- Building cleaner **REST API architecture** and backend security patterns
+- Writing better **README documentation** and project structure
+- Improving **AI-assisted debugging, planning, and documentation workflows**
+
+---
+
+## Competitive Programming
+
+| Platform | Handle | Max Rating |
+|---|---|---|
+| Codeforces | [nahin113](https://codeforces.com/profile/nahin113) | 1068 |
+| CodeChef | [nahinahmed113](https://www.codechef.com/users/nahinahmed113) | 1287 |
+| LeetCode | [nahinahmed113](https://leetcode.com/u/nahinahmed113/) | 1434 |
+
+- Solved **300+** DSA problems across Codeforces, CodeChef, LeetCode, CSES, LightOJ, and HackerRank
+- ICPC Asia Dhaka Regional Preliminary — **3 consecutive years** (2022, 2023, 2024)
+- Ranked **54th** at BUBT Inter-University Collaborative Programming Contest (November 2025)
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahin113&theme=default" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahin113&theme=default" height="180em"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahin113&theme=default" height="180em"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahin113&theme=default" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahin113&theme=default" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahin113&theme=default" height="180em"/>
 </div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nahin113&theme=default&hide_border=true"/>
-
-</div>
-
----
-
-## Competitive Programming
-
-<div align="center">
-
-| Platform | Max Rating | Profile |
-|---|---|---|
-| Codeforces | **1068** | [nahin113]([https://codeforces.com/profile/nahinahmed](https://codeforces.com/profile/nahin113)) |
-| CodeChef | **1287** | [nahinahmed]([https://www.codechef.com/users/nahinahmed](https://www.codechef.com/users/nahinahmed113)) |
-| LeetCode | **1434** | [nahinahmed113]([https://leetcode.com/nahinahmed](https://leetcode.com/u/nahinahmed113/)) |
-
+  <img src="https://streak-stats.demolab.com?user=nahin113&theme=default&hide_border=true"/>
 </div>
 
 ---
 
 ## Connect With Me
 
+Recruiters - feel free to explore my projects above or reach out directly. I am available for junior and internship roles.
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahinahmed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nahinahmed.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahinahmed)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahinahmed113@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)]([https://codeforces.com/profile/nahinahmed](https://codeforces.com/profile/nahin113))
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/nahinahmed](https://leetcode.com/u/nahinahmed113/))
 
 </div>
 
+---
+
 <div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer"/>
 </div>
