@@ -18,28 +18,63 @@
 
 ---
 
-## Tech Stack
+## Tech Stack & Tools
 
-**Frontend:**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub>React</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br><sub>Next.js</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub>JavaScript</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br><sub>TypeScript</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br><sub>HTML5</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br><sub>CSS3</sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br><sub>Tailwind</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/daisyui/1AD1A5" width="48" height="48" alt="DaisyUI" /><br><sub>DaisyUI</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" width="48" height="48" alt="Shadcn" /><br><sub>Shadcn</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="48" alt="Framer Motion" /><br><sub>Framer Motion</sub></td>
+</tr>
+</table>
 
-![DaisyUI](https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white) ![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge) ![Shadcn](https://img.shields.io/badge/Shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+**Backend & Database**
 
-**Backend & Database:**
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><sub>Node.js</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br><sub>Express</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br><sub>MongoDB</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="JWT" /><br><sub>JWT</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Google OAuth" /><br><sub>Google OAuth</sub></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+**Tools & Deployment**
 
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![BetterAuth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge) ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><sub>Git</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br><sub>GitHub</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br><sub>VS Code</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" /><br><sub>npm</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br><sub>Figma</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br><sub>Netlify</sub></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br><sub>Vercel</sub></td>
+</tr>
+</table>
 
-**Tools & Deployment:**
+**AI & Productivity**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,netlify,vercel" />
-
-**AI & Productivity:**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/74AA9C" width="48" height="48" alt="ChatGPT" /><br><sub>ChatGPT</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" /><br><sub>Gemini</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" alt="Claude" /><br><sub>Claude</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/cursor/000000" width="48" height="48" alt="Cursor" /><br><sub>Cursor</sub></td>
+</tr>
+</table>
 ---
 
 ## Featured Projects
