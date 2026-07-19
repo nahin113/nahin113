@@ -21,16 +21,31 @@
 ## Tech Stack
 
 **Frontend:**
-React.js · Next.js 15 · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · DaisyUI · HeroUI · Framer Motion · Responsive Design
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" /> 
+![DaisyUI](https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white)
+![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge)
+![Shadcn](https://img.shields.io/badge/Shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 **Backend & Database:**
-Node.js · Express.js · MongoDB · REST API Design · JWT Authentication · BetterAuth · Google OAuth · CRUD Operations
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![BetterAuth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Tools & Deployment:**
-Git · GitHub · Vercel · VS Code · npm · Figma · Netlify 
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,netlify,vercel" />
 
 **AI & Productivity:**
-ChatGPT · Gemini · Claude · Cursor · AI-assisted debugging · documentation support · test-case planning
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
