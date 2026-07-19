@@ -73,6 +73,8 @@
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" /><br><sub>Gemini</sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" alt="Claude" /><br><sub>Claude</sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/cursor/000000" width="48" height="48" alt="Cursor" /><br><sub>Cursor</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" width="48" height="48" alt="GitHub Copilot" /><br><sub>Copilot</sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48" alt="Antigravity" /><br><sub>Antigravity</sub></td>
 </tr>
 </table>
 ---
